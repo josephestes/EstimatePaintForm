@@ -13,3 +13,10 @@ This application calculates the cost of paint for a room given its dimensions.
 - Check for reasonable input
 - Output the area of the room and the cost to paint it
 - Output the cost to paint the ceiling and a total for both the walls and the ceiling
+
+#
+
+<details>
+ <summary>More Screenshots</summary>
+ 
+![App Screenshot](https://raw.githubusercontent.com/josephestes/EstimatePaintForm/master/files/InputTesting.jpg)
